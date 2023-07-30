@@ -1,0 +1,6 @@
+
+    <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+      <text x="20" y="30" fill="white">SVG</text>
+      <circle cx="150" cy="100" r="50" fill="green" />
+    </svg>
+  
